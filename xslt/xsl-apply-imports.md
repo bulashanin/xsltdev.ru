@@ -1,7 +1,7 @@
 ---
 layout: default
 title: xsl:apply-imports
-nav_order: 1
+nav_order: 2
 ---
 
 Элемент **`xsl:apply-imports`** используется в шаблонах для применения правил, которые были импортированы во внешних модулях, но переопределены шаблонами основного преобразования.
@@ -11,7 +11,7 @@ nav_order: 1
 
 Элементы-потомки:
 
-- [xsl:with-param](/xslt/xsl:with-param)
+- [xsl:with-param](/xslt/xsl-with-param)
 
 ## Синтаксис
 
