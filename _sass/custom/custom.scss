@@ -122,5 +122,19 @@ $link-color: $blue-000 !default;
 
 #markdown-toc {
 	float: right;
-	margin: 0 0 0.5rem 1rem;
+	margin: 0 0 1rem 1.5rem;
+	font-size: 0.9rem;
+}
+
+#markdown-toc > li ol li::before {
+	content: counter(step-counter) '. ' counter(sub-counter) '. ';
+	left: -2.4rem;
+}
+
+#markdown-toc > li::before {
+	content: counter(step-counter) '. ';
+}
+
+strong code {
+	font-weight: 700;
 }

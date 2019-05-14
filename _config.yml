@@ -12,9 +12,9 @@ exclude: ['node_modules/', '*.gemspec', '*.gem', 'Gemfile', 'Gemfile.lock', 'pac
 search_enabled: true
 
 # Aux links for the upper right navigation
-aux_links:
-    'Редактировать':
-        - 'https://github.com/bndby/xsltdev.ru'
+# aux_links:
+#    'Редактировать':
+#        - 'https://github.com/bndby/xsltdev.ru'
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
