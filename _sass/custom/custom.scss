@@ -126,6 +126,12 @@ $link-color: $blue-000 !default;
 	font-size: 0.9rem;
 }
 
+@media (max-width: 500px) {
+	#markdown-toc {
+		display: none;
+	}
+}
+
 #markdown-toc > li ol li::before {
 	content: counter(step-counter) '. ' counter(sub-counter) '. ';
 	left: -2.4rem;
@@ -137,4 +143,8 @@ $link-color: $blue-000 !default;
 
 strong code {
 	font-weight: 700;
+}
+
+body .page-content {
+	color: #111;
 }
