@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Справочники web-разработчика
+title: Справочники
 nav_order: 1
 description: 'Справочники'
 permalink: /

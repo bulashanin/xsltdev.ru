@@ -1,7 +1,7 @@
 ---
 layout: default
 title: xsl:apply-templates
-nav_order: 3
+nav_order: 4
 ---
 
 Элемент **`xsl:apply-templates`** применяет шаблонные правила к узлам, которые возвращаются выражением, указанным в атрибуте `select`.
@@ -13,7 +13,7 @@ nav_order: 3
 - xsl:sort
 - xsl:with-param
 
-1. TOC {:toc}
+{:toc}
 
 ## Синтаксис
 
