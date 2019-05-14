@@ -124,6 +124,11 @@ $link-color: $blue-000 !default;
 	float: right;
 	margin: 0 0 1rem 1.5rem;
 	font-size: 0.9rem;
+	max-width: 300px;
+}
+
+#markdown-toc a {
+	white-space: normal;
 }
 
 @media (max-width: 500px) {
@@ -133,12 +138,12 @@ $link-color: $blue-000 !default;
 }
 
 #markdown-toc > li ol li::before {
-	content: counter(step-counter) '. ' counter(sub-counter) '. ';
+	content: counter(step-counter) '.' counter(sub-counter) '.';
 	left: -2.4rem;
 }
 
 #markdown-toc > li::before {
-	content: counter(step-counter) '. ';
+	content: counter(step-counter) '.';
 }
 
 strong code {
