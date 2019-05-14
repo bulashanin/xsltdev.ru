@@ -6,5 +6,6 @@ has_children: true
 permalink: /xslt/
 ---
 
-- [xsl:apply-imports](/xslt/xsl-apply-imports.md)
-- [xsl:apply-templates](/xslt/xsl-apply-templates)
+Справочник по элементам XSLT на русском языке.
+
+[Язык преобразований XSL 1.0 (XSLT 1.0)](https://xsltdev.ru/tr/xslt10/) -- Перевод рекомендации W3C на русский язык
