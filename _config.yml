@@ -25,3 +25,5 @@ color_scheme: nil
 
 plugins:
     - jekyll-seo-tag
+
+lang: ru-RU
