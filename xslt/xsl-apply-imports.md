@@ -5,11 +5,13 @@ nav_order: 1
 parent: XSLT
 ---
 
-# xsl:apply-imports
-
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:apply-imports
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:apply-imports`** используется в шаблонах для применения правил, которые были импортированы во внешних модулях, но переопределены шаблонами основного преобразования.
 

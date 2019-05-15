@@ -5,11 +5,13 @@ nav_order: 2
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
 
 # xsl:apply-templates
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:apply-templates`** применяет шаблонные правила к узлам, которые возвращаются выражением, указанным в атрибуте `select`.
 
