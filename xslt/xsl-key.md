@@ -174,7 +174,6 @@ preceding-sibling::item[@source=current()/@source]
 
 Таблица 8.2. Значения атрибута `source` элементов `item`
 
-```xml
 <table class="table">
 <tr><th>Идентификатор (значение атрибута source)</th><th>Элемент item</th></tr>
 <tr><td>a</td><td><![CDATA[<]]>item source="a" name="A"/<![CDATA[>]]></td></tr>
@@ -186,7 +185,6 @@ preceding-sibling::item[@source=current()/@source]
 <tr><td>c</td><td><![CDATA[<]]>item source="c" name="D"/<![CDATA[>]]></td></tr>
 <tr><td>c</td><td><![CDATA[<]]>item source="c" name="G"/<![CDATA[>]]></td></tr>
 </table>
-```
 
 Таким образом, значение "`c`" идентифицирует объекты с именами `D` и `G`, а значение "`a`" — объекты с именами `A`, `C` и `H`, причем находить соответствующие элементы в таблице по их ключевому свойству не составляет никакого труда.
 

@@ -76,7 +76,6 @@ parent: XSLT
 
 Таблица 4.1. Включение и импорт преобразований
 
-```xml
 <table class="table">
 <tr><th>Преобразование</th><th>Импортирует</th><th>Включает</th></tr>
 <tr><td>alpha.xsl</td><td>bravo.xsl charlie.xsl</td><td></td></tr>
@@ -84,7 +83,6 @@ parent: XSLT
 <tr><td>charlie.xsl</td><td>golf.xsl hotel.xsl</td><td></td></tr>
 <tr><td>hotel.xsl</td><td></td><td>india.xsl</td></tr>
 </table>
-```
 
 Этой схеме будет соответствовать логическое дерево импорта на рис. 4.1.
 
