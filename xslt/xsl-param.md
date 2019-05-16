@@ -5,9 +5,13 @@ nav_order: 23
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:param
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент [`xsl:template`](/xslt/xsl-template/), задающий в преобразовании шаблонное правило, может включать несколько элементов **`xsl:param`**, которые и будут определять параметры этого шаблона.
 

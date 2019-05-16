@@ -5,9 +5,13 @@ nav_order: 12
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:fallback
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:fallback`** включается в "критическую" инструкцию, то есть в элемент, который может быть неизвестен процессору.
 

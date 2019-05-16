@@ -5,9 +5,13 @@ nav_order: 18
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:message
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:message`** указывает процессору на то, что он должен вывести сообщение, которое является результатом обработки шаблона, содержащегося в этом элементе.
 

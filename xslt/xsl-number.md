@@ -5,9 +5,13 @@ nav_order: 20
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:number
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:number`** вычисляет номер узла в соответствии с заданными критериями, форматирует его и затем вставляет в результирующее дерево в виде текстового узла.
 

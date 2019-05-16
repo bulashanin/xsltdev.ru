@@ -5,9 +5,13 @@ nav_order: 15
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:import
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Импорт преобразований, который обеспечивается элементом **`xsl:import`** является одним из способов использования внешних модулей в XSLT.
 

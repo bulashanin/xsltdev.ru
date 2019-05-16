@@ -5,9 +5,13 @@ nav_order: 5
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:call-template
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:call-template`** вызывает шаблон по имени, он содержит обязательный атрибут `name`, идентифицирующий шаблон, который должен быть вызван.
 

@@ -5,9 +5,13 @@ nav_order: 10
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:decimal-format
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 XSLT позволяет изменять специальные символы, влияющие на форматирование строки. Именованный набор таких символов и некоторых других указаний называется десятичным форматом и определяется элементом **`xsl:decimal-format`**.
 

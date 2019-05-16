@@ -5,9 +5,13 @@ nav_order: 13
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:for-each
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:for-each`** используется для создания в выходящем документе повторяемых частей структуры.
 

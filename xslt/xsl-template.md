@@ -5,9 +5,13 @@ nav_order: 29
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:template
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент верхнего уровня **`xsl:template`** определяет в преобразовании шаблонное правило, или просто шаблон.
 

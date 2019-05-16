@@ -5,9 +5,13 @@ nav_order: 35
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:with-param
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:with-param`** тоже связывает с именем параметра значение, и при выполнении шаблона это значение будет использоваться вместо значения параметра по умолчанию.
 

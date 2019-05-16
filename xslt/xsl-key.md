@@ -5,9 +5,13 @@ nav_order: 17
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:key
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:key`** определяет в преобразовании именованный ключ.
 
@@ -176,14 +180,14 @@ preceding-sibling::item[@source=current()/@source]
 
 <table class="table">
 <tr><th>Идентификатор (значение атрибута source)</th><th>Элемент item</th></tr>
-<tr><td>a</td><td><![CDATA[<]]>item source="a" name="A"/<![CDATA[>]]></td></tr>
-<tr><td>a</td><td><![CDATA[<]]>item source="a" name="C"/<![CDATA[>]]></td></tr>
-<tr><td>a</td><td><![CDATA[<]]>item source="a" name="H"/<![CDATA[>]]></td></tr>
-<tr><td>b</td><td><![CDATA[<]]>item source="b" name="B"/<![CDATA[>]]></td></tr>
-<tr><td>b</td><td><![CDATA[<]]>item source="b" name="E"/<![CDATA[>]]></td></tr>
-<tr><td>b</td><td><![CDATA[<]]>item source="b" name="F"/<![CDATA[>]]></td></tr>
-<tr><td>c</td><td><![CDATA[<]]>item source="c" name="D"/<![CDATA[>]]></td></tr>
-<tr><td>c</td><td><![CDATA[<]]>item source="c" name="G"/<![CDATA[>]]></td></tr>
+<tr><td>a</td><td>&lt;item source="a" name="A"/&gt;</td></tr>
+<tr><td>a</td><td>&lt;item source="a" name="C"/&gt;</td></tr>
+<tr><td>a</td><td>&lt;item source="a" name="H"/&gt;</td></tr>
+<tr><td>b</td><td>&lt;item source="b" name="B"/&gt;</td></tr>
+<tr><td>b</td><td>&lt;item source="b" name="E"/&gt;</td></tr>
+<tr><td>b</td><td>&lt;item source="b" name="F"/&gt;</td></tr>
+<tr><td>c</td><td>&lt;item source="c" name="D"/&gt;</td></tr>
+<tr><td>c</td><td>&lt;item source="c" name="G"/&gt;</td></tr>
 </table>
 
 Таким образом, значение "`c`" идентифицирует объекты с именами `D` и `G`, а значение "`a`" — объекты с именами `A`, `C` и `H`, причем находить соответствующие элементы в таблице по их ключевому свойству не составляет никакого труда.

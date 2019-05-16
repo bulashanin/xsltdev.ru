@@ -5,9 +5,13 @@ nav_order: 4
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:attribute-set
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:attribute-set`** определяет именованный набор атрибутов.
 

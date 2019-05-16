@@ -5,9 +5,13 @@ nav_order: 27
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:strip-space
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:strip-space`** удаляет текстовые узлы, состоящие только из пробельных символов, которые содержатся в элементах, указанных в атрибуте `elements`.
 

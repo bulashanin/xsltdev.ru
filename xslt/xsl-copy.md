@@ -5,9 +5,13 @@ nav_order: 8
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:copy
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:copy`** создает копию текущего узла вне зависимости от его типа.
 

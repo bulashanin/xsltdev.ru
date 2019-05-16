@@ -5,9 +5,13 @@ nav_order: 19
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:namespace-alias
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:namespace-alias`** назначает пространству имен выходящего документа пространство имен, которое будет подменять его в преобразовании, иначе говоря — псевдоним.
 

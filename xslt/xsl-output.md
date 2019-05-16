@@ -5,9 +5,13 @@ nav_order: 22
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:output
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент верхнего уровня **`xsl:output`** позволяет указывать, каким образом должно быть выведено результирующее дерево.
 
@@ -316,7 +320,7 @@ parent: XSLT
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<page><![CDATA[<br/>]]><br/>
+<page>&lt;br/&gt;<br/>
 </page>
 ```
 

@@ -5,9 +5,13 @@ nav_order: 25
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:processing-instruction
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:processing-instruction`** создает в результирующем дереве узел инструкции по обработке.
 

@@ -5,9 +5,13 @@ nav_order: 6
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+# xsl:choose
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 Элемент **`xsl:choose`** содержит один или несколько элементов [`xsl:when`](/xslt/xsl-when/) и необязательный элемент [`xsl:otherwise`](/xslt/xsl-otherwise/).
 

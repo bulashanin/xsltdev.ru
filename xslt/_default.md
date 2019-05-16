@@ -5,9 +5,13 @@ nav_order:
 parent: XSLT
 ---
 
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
 1. TOC
 {:toc}
+
+#
+{: .no_toc }
+<!-- prettier-ignore-end -->
 
 ## Синтаксис
 
