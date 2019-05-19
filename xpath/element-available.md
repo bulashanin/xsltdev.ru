@@ -1,7 +1,7 @@
 ---
 layout: default
 title: element-available
-nav_order:
+nav_order: 8
 parent: XPath
 ---
 
@@ -9,7 +9,7 @@ parent: XPath
 1. TOC
 {:toc}
 
-# element-available
+# element-available()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 

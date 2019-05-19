@@ -9,7 +9,7 @@ parent: XPath
 1. TOC
 {:toc}
 
-# boolean
+# boolean()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
