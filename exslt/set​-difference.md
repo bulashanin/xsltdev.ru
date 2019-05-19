@@ -1,0 +1,22 @@
+---
+layout: default
+title: set​:difference
+nav_order:
+parent: EXSLT
+---
+
+<!-- prettier-ignore-start -->
+1. TOC
+{:toc}
+
+# set​:difference()
+{: .no_toc }
+<!-- prettier-ignore-end -->
+
+## Синтаксис
+
+## Описание и примеры
+
+## Ссылки
+
+- [set​:difference()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/set/difference) на MDN
