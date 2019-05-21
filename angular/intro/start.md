@@ -87,14 +87,16 @@ C:\angular2\helloapp>npm install
 
 Компоненты представляют основные строительные блоки приложения Angular. Каждое приложение Angular имеет как минимум один компонент. Поэтому создадим в папке `src/app` новый файл, который назовем `app.component.ts` и в котором определим следующий код компонента:
 
-```javascript
+```typescript
 import { Component } from '@angular/core'
 
 @Component({
   selector: 'my-app',
-  template: `<label>Введите имя:</label>
-                 <input [(ngModel)]="name" placeholder="name">
-                 <h1>Добро пожаловать {{name}}!</h1>`
+  template: `
+    <label>Введите имя:</label>
+    <input [(ngModel)]="name" placeholder="name" />
+    <h1>Добро пожаловать {{ name }}!</h1>
+  `
 })
 export class AppComponent {
   name = ''
@@ -111,7 +113,7 @@ export class AppComponent {
 
 Приложение Angular состоит из модулей. Модульная структура позволяет легко подгружать и задействовать только те модули, которые непосредственно необходимы. И каждое приложение имеет как минимум один корневой модуль. Поэтому создадим в папке `src/app` новый файл, который назовем `app.module.ts` со следующим содержимым:
 
-```javascript
+```typescript
 import { NgModule } from '@angular/core'
 import { BrowserModule } from '@angular/platform-browser'
 import { FormsModule } from '@angular/forms'
@@ -132,7 +134,7 @@ export class AppModule {}
 
 Теперь нам надо указать Angular, как запускать наше приложение. Для этого создадим в папке `src` (на уровень выше, чем расположены файлы `app.component.ts` и `app.module.ts`) файл `main.ts` со следующим содержимым:
 
-```javascript
+```typescript
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic'
 import { AppModule } from './app/app.module'
 const platform = platformBrowserDynamic()
@@ -143,7 +145,7 @@ platform.bootstrapModule(AppModule)
 
 Также в папке `src` определим еще один файл, который назовем `polyfills.ts` со следующим кодом:
 
-```javascript
+```typescript
 import 'core-js/es6'
 import 'core-js/es7/reflect' // для поддержки Reflect Api
 import 'zone.js/dist/zone' // zone используется angular
