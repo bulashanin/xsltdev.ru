@@ -21,8 +21,15 @@ parent: HTML
 
 ## Синтаксис
 
+<!-- prettier-ignore -->
 ```html
-<a download="имя файла" href="адрес" hreflang="код языка" rel="отношение" target="целевое окно" type="MIME-тип">
+<a
+	download="имя файла"
+	href="адрес"
+	hreflang="код языка"
+	rel="отношение"
+	target="целевое окно"
+	type="MIME-тип">
   ...
 </a>
 ```

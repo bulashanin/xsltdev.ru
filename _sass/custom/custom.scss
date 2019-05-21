@@ -153,3 +153,7 @@ strong code {
 body .page-content {
 	color: #111;
 }
+
+.page-content iframe {
+	min-height: 300px;
+}
