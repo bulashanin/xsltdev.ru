@@ -13,10 +13,30 @@ parent: EXSLT
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
+**`exsl:object-type()`** возвращает строку, которая указывает тип переданного объекта.
+
+Поддержка браузерами:
+
+- Mozilla Firefox 1.9+
+
 ## Синтаксис
 
-## Описание и примеры
+```
+exsl:object-type(object)
+```
+
+- `object` -- объект, тип которого должен быть возвращен.
+
+Возвращает тип объекта:
+
+- `string` -- строка
+- `number` -- число
+- `boolean` -- логическое значение
+- `node-set` -- набор узлов
+- `RTF` -- результирующий фрагмент дерева
+- `external` -- внешний тип
 
 ## Ссылки
 
 - [exsl​:object-type()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/exsl/object-type) на MDN
+- [Спецификация exsl​:object-type()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/exsl/object-type)

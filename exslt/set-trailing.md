@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: set​:trailing
 nav_order:
 parent: EXSLT
 ---
@@ -9,9 +9,13 @@ parent: EXSLT
 1. TOC
 {:toc}
 
-#
+# set​:trailing()
 {: .no_toc }
 <!-- prettier-ignore-end -->
+
+Поддержка браузерами:
+
+- Mozilla Firefox 1.9+
 
 ## Синтаксис
 
@@ -19,4 +23,4 @@ parent: EXSLT
 
 ## Ссылки
 
-- []() на MDN
+- [set​:trailing()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/set/trailing) на MDN

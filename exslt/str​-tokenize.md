@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: str​:tokenize
 nav_order:
 parent: EXSLT
 ---
@@ -9,9 +9,13 @@ parent: EXSLT
 1. TOC
 {:toc}
 
-#
+# str​:tokenize()
 {: .no_toc }
 <!-- prettier-ignore-end -->
+
+Поддержка браузерами:
+
+- Mozilla Firefox 1.9+
 
 ## Синтаксис
 
@@ -19,4 +23,4 @@ parent: EXSLT
 
 ## Ссылки
 
-- []() на MDN
+- [str​:tokenize()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/str/tokenize) на MDN

@@ -13,6 +13,10 @@ parent: EXSLT
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
+Поддержка браузерами:
+
+- Mozilla Firefox 1.9+
+
 ## Синтаксис
 
 ## Описание и примеры

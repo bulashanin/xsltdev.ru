@@ -1,6 +1,6 @@
 ---
 layout: default
-title: math​:highest
+title: set​:intersection
 nav_order:
 parent: EXSLT
 ---
@@ -9,7 +9,7 @@ parent: EXSLT
 1. TOC
 {:toc}
 
-# math​:highest()
+# set​:intersection()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
@@ -23,4 +23,4 @@ parent: EXSLT
 
 ## Ссылки
 
-- [math​:highest()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/math/highest) на MDN
+- [set​:intersection()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/set/intersection) на MDN
