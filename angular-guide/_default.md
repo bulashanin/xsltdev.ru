@@ -2,7 +2,7 @@
 layout: default
 title:
 nav_order:
-parent: HTML
+parent:
 ---
 
 <!-- prettier-ignore-start -->

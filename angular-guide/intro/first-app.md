@@ -3,7 +3,7 @@ layout: default
 title: Первое приложение на Angular
 nav_order: 2
 parent: Введение в Angular
-grand_parent: Руководство по фреймворку Angular 7
+grand_parent: Руководство Angular 7
 ---
 
 <!-- prettier-ignore-start -->

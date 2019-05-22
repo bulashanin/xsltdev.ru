@@ -3,7 +3,7 @@ layout: default
 title: Взаимодействие между компонентами
 nav_order: 7
 parent: Основы Angular
-grand_parent: Руководство по фреймворку Angular 7
+grand_parent: Руководство Angular 7
 ---
 
 <!-- prettier-ignore-start -->

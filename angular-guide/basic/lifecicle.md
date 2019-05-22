@@ -3,7 +3,7 @@ layout: default
 title: Жизненный цикл компонента
 nav_order: 9
 parent: Основы Angular
-grand_parent: Руководство по фреймворку Angular 7
+grand_parent: Руководство Angular 7
 ---
 
 <!-- prettier-ignore-start -->

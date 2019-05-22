@@ -3,7 +3,7 @@ layout: default
 title: Работа с компонентами
 nav_order: 6
 parent: Основы Angular
-grand_parent: Руководство по фреймворку Angular 7
+grand_parent: Руководство Angular 7
 ---
 
 <!-- prettier-ignore-start -->

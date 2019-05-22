@@ -3,7 +3,7 @@ layout: default
 title: Привязка к событиям дочернего компонента
 nav_order: 8
 parent: Основы Angular
-grand_parent: Руководство по фреймворку Angular 7
+grand_parent: Руководство Angular 7
 ---
 
 <!-- prettier-ignore-start -->
