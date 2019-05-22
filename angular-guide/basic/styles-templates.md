@@ -231,3 +231,7 @@ module.exports = {
 ```
 
 ![Структура приложения](styles-templates-3.png)
+
+## Ссылки
+
+- [Стили и шаблоны компонента](https://metanit.com/web/angular2/2.4.php)

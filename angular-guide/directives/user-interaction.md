@@ -119,3 +119,7 @@ host: {
     '(mouseleave)': 'onMouseLeave()'
 }
 ```
+
+## Ссылки
+
+- [Взаимодействие с пользователем, HostListener и HostBinding](https://metanit.com/web/angular2/3.3.php)
