@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HTML
-nav_order: 2
+nav_order: 100
 has_children: true
 permalink: /html/
 ---
