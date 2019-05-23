@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Работа с формами
-nav_order: 5
+title: Pipes
+nav_order: 8
 has_children: true
-permalink: /angular/forms
+permalink: /angular/pipes
 parent: Руководство Angular 7
 ---
