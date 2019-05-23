@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Работа с формами
+title: Маршрутизация
 nav_order: 5
 has_children: true
-permalink: /angular/forms
+permalink: /angular/route
 parent: Руководство Angular 7
 ---
