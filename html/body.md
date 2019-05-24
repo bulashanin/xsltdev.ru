@@ -1,7 +1,6 @@
 ---
 layout: default
-title: &lt;body&gt;
-menu: body
+title: body
 nav_order:
 parent: HTML
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: &lt;br&gt;
+title: br
 nav_order:
 parent: HTML
 ---
