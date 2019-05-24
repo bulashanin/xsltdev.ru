@@ -2,7 +2,7 @@
 layout: default
 title: Отправка данных в запросе
 nav_order: 4
-parent: Работа с формами
+parent: Взаимодействие с сервером
 grand_parent: Руководство Angular 7
 ---
 

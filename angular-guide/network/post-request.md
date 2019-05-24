@@ -2,7 +2,7 @@
 layout: default
 title: POST-запросы
 nav_order: 5
-parent: Работа с формами
+parent: Взаимодействие с сервером
 grand_parent: Руководство Angular 7
 ---
 

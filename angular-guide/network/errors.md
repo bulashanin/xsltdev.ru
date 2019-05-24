@@ -2,7 +2,7 @@
 layout: default
 title: Обработка ошибок
 nav_order: 3
-parent: Работа с формами
+parent: Взаимодействие с сервером
 grand_parent: Руководство Angular 7
 ---
 

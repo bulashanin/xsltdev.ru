@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Работа с формами
+title: Взаимодействие с сервером
 nav_order: 5
 has_children: true
-permalink: /angular/forms
+permalink: /angular/network
 parent: Руководство Angular 7
 ---

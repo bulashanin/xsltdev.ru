@@ -2,7 +2,7 @@
 layout: default
 title: HttpClient и отправка запросов
 nav_order: 1
-parent: Работа с формами
+parent: Взаимодействие с сервером
 grand_parent: Руководство Angular 7
 ---
 
