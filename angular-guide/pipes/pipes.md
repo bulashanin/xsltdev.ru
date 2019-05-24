@@ -22,8 +22,8 @@ import { Component } from '@angular/core'
 @Component({
   selector: 'my-app',
   template: `
-    <div>Без форматирования: {{ myDate }}</div>
-    <div>С форматированием: {{ myDate | date }}</div>
+    <div>Без форматирования: &#123;{ myDate }}</div>
+    <div>С форматированием: &#123;{ myDate | date }}</div>
   `
 })
 export class AppComponent {

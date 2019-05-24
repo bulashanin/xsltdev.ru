@@ -126,7 +126,7 @@ export class AppComponent {
 }
 ```
 
-Опять же подключим JoinPipe в модуле приложения:
+Опять же подключим `JoinPipe` в модуле приложения:
 
 ```typescript
 import { NgModule } from '@angular/core'
