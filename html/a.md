@@ -15,8 +15,6 @@ parent: HTML
 
 Тег **`<a>`** _(от англ. **a**nchor - якорь, ссылка)_ предназначен для создания ссылок.
 
-<script src="https://gist.github.com/bndby/92b6a78ec7ba9737a1fd18dd1f4bf28e.js"></script>
-
 Для этого необходимо сообщить браузеру, что является ссылкой, а также указать адрес документа, на который следует сделать ссылку.
 
 В качестве значения атрибута `href` используется адрес документа, на который происходит переход. Адрес ссылки может быть абсолютным и относительным. Абсолютные адреса работают везде и всюду независимо от имени сайта или веб-страницы, где прописана ссылка. Относительные ссылки, как следует из их названия, построены относительно текущего документа или корня сайта.
@@ -186,22 +184,64 @@ MIME-тип
 
 Пример со ссылкой:
 
-<script async="" src="//jsfiddle.net/xsltdev/7rku9v5z/1/embed/html,result/"></script>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>А</title>
+  </head>
+  <body>
+    <p><a href="image/xxx.jpg">Посмотрите на мою фотографию!</a></p>
+    <p><a href="page/tip.html">Как сделать такое же фото?</a></p>
+  </body>
+</html>
+```
+
+Результат:
+
+<iframe srcdoc='<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>А</title>
+  </head>
+  <body>
+    <p><a href="image/xxx.jpg">Посмотрите на мою фотографию!</a></p>
+    <p><a href="page/tip.html">Как сделать такое же фото?</a></p>
+  </body>
+</html>'></iframe>
 
 Пример с якорем:
 
-<script async="" src="//jsfiddle.net/xsltdev/0kgqndoj/3/embed/html,result/"></script>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>anchor</title>
+    <style>
+      #anchor {
+        margin-top: 999px;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#anchor">Go to anchor</a>
+    <div id="anchor">Anchor</div>
+  </body>
+</html>
+```
 
 ### Создания ссылки для написания письма
 
-<script async="" src="//jsfiddle.net/xsltdev/r86gscp1/embed/html,result/"></script>
+```html
+<a href="mailto:nowhere@mozilla.org">Отправить сообщение в никуда</a>
+```
 
-Для дополнительных деталей использования mailto, таких как тема, текст или другое, смотрите [RFC 6068](http://tools.ietf.org/html/6068).
+Для дополнительных деталей использования mailto, таких как тема, текст или другое, смотрите [RFC 6068](http://tools.ietf.org/html/6068). ### Создание ссылки с номером телефона С телефонами, способными выходить в Интернет и ноутбуками, которые привязаны к телефонам, ссылки с номером телефона становятся всё больше и больше полезными.
 
-### Создание ссылки с номером телефона
-
-С телефонами, способными выходить в Интернет и ноутбуками, которые привязаны к телефонам, ссылки с номером телефона становятся всё больше и больше полезными.
-
-<script async="" src="//jsfiddle.net/xsltdev/3we9zx56/embed/html,result/"></script>
+```html
+<a href="tel:+491570156">+49 157 0156</a>
+```
 
 Для дополнителных деталей о протоколе tel, смотрите [RFC 2806](http://tools.ietf.org/html/2806) и [RFC 2396](http://tools.ietf.org/html/2396).
