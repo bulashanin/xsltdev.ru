@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <br>
+title: &lt;br&gt;
 nav_order:
 parent: HTML
 ---
@@ -9,7 +9,7 @@ parent: HTML
 1. TOC
 {:toc}
 
-# <br>
+# &lt;br&gt;
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
