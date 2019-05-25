@@ -42,7 +42,4 @@ parent: HTML
 
 Результат:
 
-<ruby>
-<rb>漢<rb>字
-<rp>(</rp><rt>kan<rt>ji<rp>)</rp>
-</ruby>
+<ruby><rb>漢<rb>字<rp>(</rp><rt>kan<rt>ji<rp>)</rp></ruby>
