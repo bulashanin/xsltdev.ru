@@ -9,7 +9,7 @@ parent: HTML
 1. TOC
 {:toc}
 
-# area
+# &lt;area&gt;
 {: .no_toc }
 <!-- prettier-ignore-end -->
 

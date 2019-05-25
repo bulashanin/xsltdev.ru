@@ -9,7 +9,7 @@ parent: HTML
 1. TOC
 {:toc}
 
-# abbr
+# &lt;abbr&gt;
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
