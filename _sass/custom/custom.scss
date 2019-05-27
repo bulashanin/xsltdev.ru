@@ -182,24 +182,24 @@ body .page-content {
 /*
 	REDESIGN MENU
 */
-
 .navigation-list {
 	display: flex;
 	flex-direction: column;
 	height: 100%;
-
-	& > .navigation-list-item {
-		height: 100%;
-		display: flex;
-		flex-direction: column;
-
-		& > .navigation-list-child-list {
-			overflow: auto;
-			height: 100%;
-		}
-	}
 }
 
+.navigation-list > .navigation-list-item {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.navigation-list > .navigation-list-item > .navigation-list-child-list {
+	overflow: auto;
+	height: 100%;
+}
+
+/* ширина колонок */
 .col-10 {
 	column-width: 10rem;
 }
