@@ -12,12 +12,12 @@ permalink: /css/
 
 ## Псевдоклассы
 
-- [:active](:active.md)
-- [:any-link](:any-link.md)
+- [:active](pseudo-class-active.md)
+- [:any-link](pseudo-class-any-link.md)
 - [:blank]()
 - [:checked]()
 - [:current]()
-- [:default](:default.md)
+- [:default](pseudo-class-default.md)
 - [:defined]()
 - [:dir()]()
 - [:disabled]()
@@ -76,7 +76,7 @@ permalink: /css/
 
 ## Псевдоэлементы
 
-- [::after (:after)](::after.md)
+- [::after (:after)](pseudo-element-after.md)
 - [::backdrop]()
 - [::before (:before)]()
 - [::cue (:cue)]()
@@ -94,7 +94,7 @@ permalink: /css/
 
 ## Модификаторы
 
-- [!important](!important.md)
+- [!important](modificator-important.md)
 
 ## Функции
 
