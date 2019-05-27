@@ -9,13 +9,6 @@ permalink: /css/
 
 Справочник по свойствам CSS
 
-<!-- prettier-ignore-start -->
-
-1. TOC
-{:toc}
-
-
-
 ## Псевдоклассы
 
 - [:active]()
@@ -78,7 +71,7 @@ permalink: /css/
 - [:valid]()
 - [:visited]()
 - [:where()]()
-{: .col-15 }
+  {: .col-14 }
 
 ## Псевдоэлементы
 
@@ -94,7 +87,7 @@ permalink: /css/
 - [::selection]()
 - [::slotted()]()
 - [::spelling-error]()
-{: .col-30 }
+  {: .col-14 }
 
 ## @-правила
 
@@ -582,4 +575,5 @@ inset-inline-start
 caption-side (inline-end and inline-start keywords)
 resize (block and inline keywords)
 text-align (end and start keywords)
+
 <!-- prettier-ignore-end -->
