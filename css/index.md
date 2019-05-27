@@ -14,7 +14,7 @@ permalink: /css/
 1. TOC
 {:toc}
 
-<!-- prettier-ignore-end -->
+
 
 ## Псевдоклассы
 
@@ -78,9 +78,9 @@ permalink: /css/
 - [:valid]()
 - [:visited]()
 - [:where()]()
-  {: .col-15 }
+{: .col-15 }
 
-## Псевдоэлементы]()
+## Псевдоэлементы
 
 - [::after (:after)]()
 - [::backdrop]()
@@ -94,7 +94,7 @@ permalink: /css/
 - [::selection]()
 - [::slotted()]()
 - [::spelling-error]()
-  {: .col-30 }
+{: .col-30 }
 
 ## @-правила
 
@@ -582,3 +582,4 @@ inset-inline-start
 caption-side (inline-end and inline-start keywords)
 resize (block and inline keywords)
 text-align (end and start keywords)
+<!-- prettier-ignore-end -->
