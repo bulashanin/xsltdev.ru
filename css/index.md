@@ -3,88 +3,98 @@ layout: default
 title: CSS
 nav_order: 110
 has_children: true
+has_toc: false
 permalink: /css/
 ---
 
 Справочник по свойствам CSS
 
+<!-- prettier-ignore-start -->
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
 ## Псевдоклассы
 
-:active
-:any-link
-:blank
-:checked
-:current
-:default
-:defined
-:dir()
-:disabled
-:drop
-:empty
-:enabled
-:first
-:first-child
-:first-of-type
-:fullscreen
-:future
-:focus
-:focus-visible
-:focus-within
-:has()
-:host
-:host()
-:host-context()
-:hover
-:indeterminate
-:in-range
-:invalid
-:is()
-:lang()
-:last-child
-:last-of-type
-:left
-:link
-:local-link
-:not()
-:nth-child()
-:nth-col()
-:nth-last-child()
-:nth-last-col()
-:nth-last-of-type()
-:nth-of-type()
-:only-child
-:only-of-type
-:optional
-:out-of-range
-:past
-:placeholder-shown
-:read-only
-:read-write
-:required
-:right
-:root
-:scope
-:target
-:target-within
-:user-invalid
-:valid
-:visited
-:where()
+- [:active]()
+- [:any-link]()
+- [:blank]()
+- [:checked]()
+- [:current]()
+- [:default]()
+- [:defined]()
+- [:dir()]()
+- [:disabled]()
+- [:drop]()
+- [:empty]()
+- [:enabled]()
+- [:first]()
+- [:first-child]()
+- [:first-of-type]()
+- [:fullscreen]()
+- [:future]()
+- [:focus]()
+- [:focus-visible]()
+- [:focus-within]()
+- [:has()]()
+- [:host]()
+- [:host()]()
+- [:host-context()]()
+- [:hover]()
+- [:indeterminate]()
+- [:in-range]()
+- [:invalid]()
+- [:is()]()
+- [:lang()]()
+- [:last-child]()
+- [:last-of-type]()
+- [:left]()
+- [:link]()
+- [:local-link]()
+- [:not()]()
+- [:nth-child()]()
+- [:nth-col()]()
+- [:nth-last-child()]()
+- [:nth-last-col()]()
+- [:nth-last-of-type()]()
+- [:nth-of-type()]()
+- [:only-child]()
+- [:only-of-type]()
+- [:optional]()
+- [:out-of-range]()
+- [:past]()
+- [:placeholder-shown]()
+- [:read-only]()
+- [:read-write]()
+- [:required]()
+- [:right]()
+- [:root]()
+- [:scope]()
+- [:target]()
+- [:target-within]()
+- [:user-invalid]()
+- [:valid]()
+- [:visited]()
+- [:where()]()
+  {: .col-15 }
 
-## Псевдоэлементы
+## Псевдоэлементы]()
 
-::after (:after)
-::backdrop
-::before (:before)
-::cue (:cue)
-::first-letter (:first-letter)
-::first-line (:first-line)
-::grammar-error
-::marker
-::placeholder
-::selection
-::slotted()
-::spelling-error
+- [::after (:after)]()
+- [::backdrop]()
+- [::before (:before)]()
+- [::cue (:cue)]()
+- [::first-letter (:first-letter)]()
+- [::first-line (:first-line)]()
+- [::grammar-error]()
+- [::marker]()
+- [::placeholder]()
+- [::selection]()
+- [::slotted()]()
+- [::spelling-error]()
+  {: .col-30 }
 
 ## @-правила
 
