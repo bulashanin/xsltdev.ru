@@ -232,6 +232,24 @@ MIME-тип
 </html>
 ```
 
+Результат:
+
+<iframe srcdoc='<!DOCTYPE html>
+<html>
+  <head>
+    <title>anchor</title>
+    <style>
+      #anchor {
+        margin-top: 999px;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#anchor">Go to anchor</a>
+    <div id="anchor">Anchor</div>
+  </body>
+</html>'></iframe>
+
 ### Создания ссылки для написания письма
 
 ```html
