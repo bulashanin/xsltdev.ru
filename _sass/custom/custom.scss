@@ -182,6 +182,14 @@ body .page-content {
 /*
 	REDESIGN MENU
 */
+.navigation {
+	padding-top: 1rem;
+}
+
+.navigation > nav {
+	height: 100%;
+}
+
 .navigation-list {
 	display: flex;
 	flex-direction: column;
@@ -192,6 +200,11 @@ body .page-content {
 	height: 100%;
 	display: flex;
 	flex-direction: column;
+	flex-grow: 0;
+}
+
+.navigation-list > .navigation-list-item.active {
+	flex-grow: 1;
 }
 
 .navigation-list > .navigation-list-item > .navigation-list-child-list {
