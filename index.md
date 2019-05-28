@@ -1,22 +1,22 @@
 ---
 layout: default
 title: Справочники
-nav_order: 1
+nav_exclude: true
 description: Справочники
 permalink: /
 ---
 
 ## Фронтенд
 
-- [HTML](/html/) - справочник элементов HTML
-- [CSS](/css/) - справочник свойств CSS
+- [HTML](html/index.md) - справочник элементов HTML
+- [CSS](css/index.md) - справочник свойств CSS
 
 ## Фреймворки
 
-- [Angular 2+](/angular-guide/) - руководство по фреймворку Angular 2+
+- [Angular 2+](angular-guide/index.md) - руководство по фреймворку Angular 2+
 
 ## XML технологии
 
-- [XSLT](/xslt/) - справочник элементов XSLT
-- [XPath](/xpath/) - справочник функций XPath
-- [EXSLT](/exslt/) - справочник функций EXSLT
+- [XSLT](xslt/index.md) - справочник элементов XSLT
+- [XPath](xpath/index.md) - справочник функций XPath
+- [EXSLT](exslt/index.md) - справочник функций EXSLT

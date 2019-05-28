@@ -14,80 +14,80 @@ permalink: /css/
 
 - [:active](pseudo-class-active.md)
 - [:any-link](pseudo-class-any-link.md)
-- [:blank]()
-- [:checked]()
-- [:current]()
+- [:blank](pseudo-class-.md)
+- [:checked](pseudo-class-.md)
+- [:current](pseudo-class-.md)
 - [:default](pseudo-class-default.md)
-- [:defined]()
-- [:dir()]()
-- [:disabled]()
-- [:drop]()
-- [:empty]()
-- [:enabled]()
-- [:first]()
-- [:first-child]()
-- [:first-of-type]()
-- [:fullscreen]()
-- [:future]()
-- [:focus]()
-- [:focus-visible]()
-- [:focus-within]()
-- [:has()]()
-- [:host]()
-- [:host()]()
-- [:host-context()]()
-- [:hover]()
-- [:indeterminate]()
-- [:in-range]()
-- [:invalid]()
-- [:is()]()
-- [:lang()]()
-- [:last-child]()
-- [:last-of-type]()
-- [:left]()
-- [:link]()
-- [:local-link]()
-- [:not()]()
-- [:nth-child()]()
-- [:nth-col()]()
-- [:nth-last-child()]()
-- [:nth-last-col()]()
-- [:nth-last-of-type()]()
-- [:nth-of-type()]()
-- [:only-child]()
-- [:only-of-type]()
-- [:optional]()
-- [:out-of-range]()
-- [:past]()
-- [:placeholder-shown]()
-- [:read-only]()
-- [:read-write]()
-- [:required]()
-- [:right]()
-- [:root]()
-- [:scope]()
-- [:target]()
-- [:target-within]()
-- [:user-invalid]()
-- [:valid]()
-- [:visited]()
-- [:where()]()
+- [:defined](pseudo-class-.md)
+- [:dir()](pseudo-class-.md)
+- [:disabled](pseudo-class-.md)
+- [:drop](pseudo-class-.md)
+- [:empty](pseudo-class-.md)
+- [:enabled](pseudo-class-.md)
+- [:first](pseudo-class-.md)
+- [:first-child](pseudo-class-.md)
+- [:first-of-type](pseudo-class-.md)
+- [:fullscreen](pseudo-class-.md)
+- [:future](pseudo-class-.md)
+- [:focus](pseudo-class-.md)
+- [:focus-visible](pseudo-class-.md)
+- [:focus-within](pseudo-class-.md)
+- [:has()](pseudo-class-.md)
+- [:host](pseudo-class-.md)
+- [:host()](pseudo-class-.md)
+- [:host-context()](pseudo-class-.md)
+- [:hover](pseudo-class-.md)
+- [:indeterminate](pseudo-class-.md)
+- [:in-range](pseudo-class-.md)
+- [:invalid](pseudo-class-.md)
+- [:is()](pseudo-class-.md)
+- [:lang()](pseudo-class-.md)
+- [:last-child](pseudo-class-.md)
+- [:last-of-type](pseudo-class-.md)
+- [:left](pseudo-class-.md)
+- [:link](pseudo-class-.md)
+- [:local-link](pseudo-class-.md)
+- [:not()](pseudo-class-.md)
+- [:nth-child()](pseudo-class-.md)
+- [:nth-col()](pseudo-class-.md)
+- [:nth-last-child()](pseudo-class-.md)
+- [:nth-last-col()](pseudo-class-.md)
+- [:nth-last-of-type()](pseudo-class-.md)
+- [:nth-of-type()](pseudo-class-.md)
+- [:only-child](pseudo-class-.md)
+- [:only-of-type](pseudo-class-.md)
+- [:optional](pseudo-class-.md)
+- [:out-of-range](pseudo-class-.md)
+- [:past](pseudo-class-.md)
+- [:placeholder-shown](pseudo-class-.md)
+- [:read-only](pseudo-class-.md)
+- [:read-write](pseudo-class-.md)
+- [:required](pseudo-class-.md)
+- [:right](pseudo-class-.md)
+- [:root](pseudo-class-.md)
+- [:scope](pseudo-class-.md)
+- [:target](pseudo-class-.md)
+- [:target-within](pseudo-class-.md)
+- [:user-invalid](pseudo-class-.md)
+- [:valid](pseudo-class-.md)
+- [:visited](pseudo-class-.md)
+- [:where()](pseudo-class-.md)
 {: .col-14 }
 
 ## Псевдоэлементы
 
 - [::after (:after)](pseudo-element-after.md)
-- [::backdrop]()
-- [::before (:before)]()
-- [::cue (:cue)]()
-- [::first-letter (:first-letter)]()
-- [::first-line (:first-line)]()
-- [::grammar-error]()
-- [::marker]()
-- [::placeholder]()
-- [::selection]()
-- [::slotted()]()
-- [::spelling-error]()
+- [::backdrop](pseudo-element-.md)
+- [::before (:before)](pseudo-element-.md)
+- [::cue (:cue)](pseudo-element-.md)
+- [::first-letter (:first-letter)](pseudo-element-.md)
+- [::first-line (:first-line)](pseudo-element-.md)
+- [::grammar-error](pseudo-element-.md)
+- [::marker](pseudo-element-.md)
+- [::placeholder](pseudo-element-.md)
+- [::selection](pseudo-element-.md)
+- [::slotted()](pseudo-element-.md)
+- [::spelling-error](pseudo-element-.md)
 {: .col-14 }
 
 ## @-правила
@@ -95,64 +95,75 @@ permalink: /css/
 ## Модификаторы
 
 - [!important](modificator-important.md)
+{: .col-14 }
 
 ## Функции
 
 ---
 
-- [display]()
+- [display](.md)
+{: .col-14 }
 
 ## Переходы
 
-- [transition]()
-- [transition-delay]()
-- [transition-duration]()
-- [transition-property]()
-- [transition-timing-function]()
+- [transition](.md)
+- [transition-delay](.md)
+- [transition-duration](.md)
+- [transition-property](.md)
+- [transition-timing-function](.md)
+{: .col-14 }
 
 ## Формы
 
-- [shape-image-threshold]()
-- [shape-margin]()
-- [shape-outside]()
+- [shape-image-threshold](.md)
+- [shape-margin](.md)
+- [shape-outside](.md)
+{: .col-14 }
 
 ## Pointer Ecents
 
-- [pointer-events]()
-- [touch-action]()
+- [pointer-events](.md)
+- [touch-action](.md)
+{: .col-14 }
 
 ## CSSOM
 
-- [scroll-behavior]()
+- [scroll-behavior](.md)
+{: .col-14 }
 
 ## Трансформации
 
-- [backface-visibility]()
-- [perspective]()
-- [perspective-origin]()
-- [transform]()
-- [transform-box]()
-- [transform-origin]()
-- [transform-style]()
+- [backface-visibility](.md)
+- [perspective](.md)
+- [perspective-origin](.md)
+- [transform](.md)
+- [transform-box](.md)
+- [transform-origin](.md)
+- [transform-style](.md)
+{: .col-14 }
 
 ## Страницы
 
 - [page-break-after](.md)
 - [page-break-before](.md)
 - [page-break-inside](.md)
+{: .col-14 }
 
 - [@page](@page.md)
+{: .col-14 }
 
 - [:blank](.md)
 - [:first](.md)
 - [:left](.md)
 - [:right](.md)
+{: .col-14 }
 
 ## Композиция и смешивание
 
 - [background-blend-mode](.md)
 - [isolation](.md)
 - [mix-blend-mode](.md)
+{: .col-14 }
 
 ## Изображения
 
@@ -161,6 +172,7 @@ permalink: /css/
 - [image-resolution](.md)
 - [object-fit](.md)
 - [object-position](.md)
+{: .col-14 }
 
 - [linear-gradient()](linear-gradient().md)
 - [radial-gradient()](.md)
@@ -172,6 +184,7 @@ permalink: /css/
 - [element()](.md)
 - [image()](.md)
 - [cross-fade()](.md)
+{: .col-14 }
 
 ## Текст
 
@@ -190,6 +203,7 @@ permalink: /css/
 - [white-space](.md)
 - [word-break](.md)
 - [word-spacing](.md)
+{: .col-14 }
 
 ## Оформление текста
 
@@ -210,12 +224,14 @@ permalink: /css/
 - [text-transform](.md)
 - [white-space](.md)
 - [word-spacing](.md)
+{: .col-14 }
 
 ## Блоки
 
 - [overflow](.md)
 - [overflow-x](.md)
 - [overflow-y](.md)
+{: .col-14 }
 
 - [height](.md)
 - [width](.md)
@@ -223,6 +239,7 @@ permalink: /css/
 - [max-width](.md)
 - [min-height](.md)
 - [min-width](.md)
+{: .col-14 }
 
 - [margin](.md)
 - [margin-bottom](.md)
@@ -230,19 +247,23 @@ permalink: /css/
 - [margin-right](.md)
 - [margin-top](.md)
 - [margin-trim](.md)
+{: .col-14 }
 
 - [padding](.md)
 - [padding-bottom](.md)
 - [padding-left](.md)
 - [padding-right](.md)
 - [padding-top](.md)
+{: .col-14 }
 
 - [visibility](.md)
+{: .col-14 }
 
 ## Фильтры
 
 - [backdrop-filter](.md)
 - [filter](.md)
+{: .col-14 }
 
 ## Режимы письма
 
@@ -252,6 +273,7 @@ permalink: /css/
 - [text-orientation](.md)
 - [unicode-bidi](.md)
 - [writing-mode](.md)
+{: .col-14 }
 
 ## Списки и Счетчики
 
@@ -261,6 +283,7 @@ permalink: /css/
 - [list-style-type](.md)
 - [list-style-position](.md)
 - [list-style](.md)
+{: .col-14 }
 
 - [@counter-style](.md)
 - [system](.md)
@@ -272,17 +295,20 @@ permalink: /css/
 - [pad](.md)
 - [speak-as](.md)
 - [fallback](.md)
+{: .col-14 }
 
 ## Генерируемый контент
 
 - [content](.md)
 - [quotes](.md)
+{: .col-14 }
 
 ## Цвета
 
 - [color](.md)
 - [color-adjust](.md)
 - [opacity](.md)
+{: .col-14 }
 
 ## Маски
 
@@ -305,6 +331,7 @@ permalink: /css/
 - [mask-repeat](.md)
 - [mask-size](.md)
 - [mask-type](.md)
+{: .col-14 }
 
 ## Анимации
 
@@ -317,8 +344,10 @@ permalink: /css/
 - [animation-name](.md)
 - [animation-play-state](.md)
 - [animation-timing-function](.md)
+{: .col-14 }
 
 - [@keyframes](.md)
+{: .col-14 }
 
 ## Позиционирование
 
@@ -330,6 +359,7 @@ permalink: /css/
 - [right](.md)
 - [top](.md)
 - [z-index](.md)
+{: .col-14 }
 
 ## Интерфейс
 
@@ -345,6 +375,7 @@ permalink: /css/
 - [resize](.md)
 - [text-overflow](.md)
 - [user-select](.md)
+{: .col-14 }
 
 ## Колонки
 
@@ -358,6 +389,7 @@ permalink: /css/
 - [column-span](.md)
 - [column-width](.md)
 - [columns](.md)
+{: .col-14 }
 
 ## Фрагментация
 
@@ -367,6 +399,7 @@ permalink: /css/
 - [break-inside](.md)
 - [orphans](.md)
 - [widows](.md)
+{: .col-14 }
 
 ## Таблицы
 
@@ -376,6 +409,7 @@ permalink: /css/
 - [empty-cells](.md)
 - [table-layout](.md)
 - [vertical-align](.md)
+{: .col-14 }
 
 ## Фоны и границы
 
@@ -390,6 +424,8 @@ permalink: /css/
 - [background-position-y](.md)
 - [background-repeat](.md)
 - [background-size](.md)
+{: .col-14 }
+
 - [border](.md)
 - [border-bottom](.md)
 - [border-bottom-color](.md)
@@ -423,6 +459,7 @@ permalink: /css/
 - [border-top-width](.md)
 - [border-width](.md)
 - [box-shadow](.md)
+{: .col-14 }
 
 ## Шрифт
 
@@ -447,6 +484,7 @@ permalink: /css/
 - [font-variation-settings](.md)
 - [font-weight](.md)
 - [line-height](.md)
+{: .col-14 }
 
 - [@font-face](.md)
 - [font-family](.md)
@@ -458,6 +496,7 @@ permalink: /css/
 - [src](.md)
 - [unicode-range](.md)
 - [@font-feature-values](.md)
+{: .col-14 }
 
 ## Grid
 
@@ -479,6 +518,7 @@ permalink: /css/
 - [grid-template-areas](.md)
 - [grid-template-columns](.md)
 - [grid-template-rows](.md)
+{: .col-14 }
 
 ## Flex
 
@@ -490,6 +530,7 @@ permalink: /css/
 - [flex-shrink](.md)
 - [flex-wrap](.md)
 - [order](.md)
+{: .col-14 }
 
 ## Выравнивание
 
@@ -505,6 +546,7 @@ permalink: /css/
 - [row-gap](.md)
 - [column-gap](.md)
 - [gap](.md)
+{: .col-14 }
 
 ## Логические свойства и значения
 
@@ -514,6 +556,7 @@ permalink: /css/
 - [max-inline-size](.md)
 - [min-block-size](.md)
 - [min-inline-size](.md)
+{: .col-14 }
 
 - [border-block](.md)
 - [border-block-color](.md)
@@ -546,6 +589,8 @@ permalink: /css/
 - [border-end-end-radius](.md)
 - [border-style (logical keyword)](.md)
 - [border-width (logical keyword)](.md)
+{: .col-14 }
+
 - [margin (logical keyword)](.md)
 - [margin-block](.md)
 - [margin-block-end](.md)
@@ -553,8 +598,12 @@ permalink: /css/
 - [margin-inline](.md)
 - [margin-inline-end](.md)
 - [margin-inline-start](.md)
+{: .col-14 }
+
 - [overflow-block](.md)
 - [overflow-inline](.md)
+{: .col-14 }
+
 - [padding (logical keyword)](.md)
 - [padding-block](.md)
 - [padding-block-end](.md)
@@ -562,6 +611,7 @@ permalink: /css/
 - [padding-inline](.md)
 - [padding-inline-end](.md)
 - [padding-inline-start](.md)
+{: .col-14 }
 
 - [clear (inline-end and inline-start keywords)](.md)
 - [float (inline-end and inline-start keywords)](.md)
@@ -572,9 +622,11 @@ permalink: /css/
 - [inset-inline](.md)
 - [inset-inline-end](.md)
 - [inset-inline-start](.md)
+{: .col-14 }
 
 - [caption-side (inline-end and inline-start keywords)](.md)
 - [resize (block and inline keywords)](.md)
 - [text-align (end and start keywords)](.md)
+{: .col-14 }
 
 <!-- prettier-ignore-end -->

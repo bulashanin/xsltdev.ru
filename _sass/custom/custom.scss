@@ -205,6 +205,7 @@ body .page-content {
 
 .navigation-list > .navigation-list-item.active {
 	flex-grow: 1;
+	overflow: auto;
 }
 
 .navigation-list > .navigation-list-item > .navigation-list-child-list {
