@@ -102,7 +102,7 @@ permalink: /css/
 
 - [grid](grid.md)
 - [grid-area](grid-area.md)
-- [grid-auto-columns](.md)
+- [grid-auto-columns](grid-auto-columns.md)
 - [grid-auto-flow](.md)
 - [grid-auto-rows](.md)
 - [grid-column](.md)
