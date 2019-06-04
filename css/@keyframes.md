@@ -1,6 +1,6 @@
 ---
 layout: default
-title: @keyframes
+title: '@keyframes'
 nav_order:
 parent: CSS
 ---
