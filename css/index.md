@@ -9,7 +9,7 @@ permalink: /css/
 
 <!-- prettier-ignore-start -->
 Справочник CSS
-
+<!--
 - [!important](important.md)
 {: .col-14 }
 
@@ -96,7 +96,7 @@ permalink: /css/
 ---
 
 - [display](display.md)
-{: .col-14 }
+{: .col-14 }-->
 
 ## Grid
 
@@ -120,6 +120,7 @@ permalink: /css/
 - [grid-template-rows](grid-template-rows.md)
 {: .col-14 }
 
+<!--
 ## Flex
 
 - [flex](flex.md)
@@ -274,9 +275,11 @@ permalink: /css/
 - [transition-property](transition-property.md)
 - [transition-timing-function](transition-timing-function.md)
 {: .col-14 }
+-->
 
 ## Анимации
 
+<!--
 - [animation](animation.md)
 - [animation-delay](animation-delay.md)
 - [animation-direction](animation-direction.md)
@@ -287,10 +290,12 @@ permalink: /css/
 - [animation-play-state](animation-play-state.md)
 - [animation-timing-function](animation-timing-function.md)
 {: .col-14 }
+-->
 
 - [@keyframes](@keyframes.md)
 {: .col-14 }
 
+<!--
 ## Трансформации
 
 - [backface-visibility](.md)
@@ -622,5 +627,6 @@ permalink: /css/
 - [resize (block and inline keywords)](.md)
 - [text-align (end and start keywords)](.md)
 {: .col-14 }
+-->
 
 <!-- prettier-ignore-end -->

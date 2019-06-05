@@ -6,9 +6,6 @@ parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # grid-area
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: CSS
 Свойство **`grid-area`** даёт название элементу чтобы можно было ссылаться на него с помощью шаблона созданного через [`grid-template-areas`](/css/grid-template-areas/) свойство.
 
 Свойство **`grid-area`** является сокращенным свойством для [`grid-row-start`](/css/grid-row-start/), [`grid-column-start`](/css/grid-column-start/), [`grid-row-end`](/css/grid-row-end/) и [`grid-column-end`](/css/grid-column-end/), определяя размер и расположение элемента сетки.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 
@@ -109,4 +110,4 @@ CSS
 
 Результат
 
-![Пример использования свойства grid-area](/workspace/uploads/css/grid-area.png)
+![Пример использования свойства grid-area](grid-area.png)

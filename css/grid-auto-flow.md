@@ -6,9 +6,6 @@ parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # grid-auto-flow
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: CSS
 Свойство **`grid-auto-flow`** управляет тем, как работает алгоритм автоматического размещения, точно указывая, как элементы попадают в сетку.
 
 Если у вас есть элементы, которые вы явно не позиционируете в сетке, запускается алгоритм авто-размещения, чтобы их автоматически разместить. Это свойство контролирует то, как алгоритм авто-размещения работает.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 
@@ -161,4 +162,4 @@ CSS
 }
 ```
 
-![CSS Grid Auto Flow Column](/workspace/uploads/css/grid-auto-flow-column.png)
+![CSS Grid Auto Flow Column](grid-auto-flow-column.png)

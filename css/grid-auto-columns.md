@@ -6,14 +6,15 @@ parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
-# grid-auto-columns
+# @grid-auto-columns
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Свойство **`grid-auto-columns`** определяет размер любых автоматически созданных треков (иначе говоря, неявных треков). Неявные треки создаются при явном позиционировании столбцов и строк (через [`grid-template-rows`](/css/grid-template-rows/)/[`grid-template-columns`](/css/grid-template-columns/)), которые находятся за пределами заданной сетки.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 
@@ -110,4 +111,4 @@ CSS
 
 Результат
 
-![Пример использования свойства grid-auto-columns](https://xsltdev.ru/workspace/uploads/css/grid-auto-columns.png)
+![Пример использования свойства grid-auto-columns](grid-auto-columns.png)

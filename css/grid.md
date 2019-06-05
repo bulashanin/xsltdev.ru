@@ -9,6 +9,7 @@ parent: CSS
 1. TOC
 {:toc}
 
+<!-- prettier-ignore-start -->
 # grid
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +17,10 @@ parent: CSS
 Свойство **`grid`** является сокращенной формой записи, которая устанавливает значения для всех явных свойств сетки ([`grid-template-rows`](/css/grid-template-rows/), [`grid-template-columns`](/css/grid-template-columns/) и [`grid-template-areas`](/css/grid-template-areas/)), всех неявных свойств сетки ([`grid-auto-rows`](/css/grid-auto-rows/), [`grid-auto-columns`](/css/grid-auto-columns/) и [`grid-auto-flow`](/css/grid-auto-flow/)) и свойств для промежутков между рядами и столбцами сетки ([`grid-column-gap`](/css/grid-column-gap/) и [`grid-row-gap`](/css/grid-row-gap/)) в одной строчке.
 
 В одной строке `grid` могут быть описаны свойства только одного вида: явные или неявные. Подсвойства, которые не были описаны, принимают, как и в других сокращенных формах записи свойств, значения по умолчанию. Кроме того, при помощи сокращенной формы записи значения свойств для промежутков между рядами и столбцами сетки по умолчанию сбрасываются, не смотря на то, что они не могут быть установленны в сокращенной форме записи.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 
@@ -118,4 +123,4 @@ CSS
 
 Результат
 
-![Пример использования свойства grid](https://xsltdev.ru/workspace/uploads/css/grid.png)
+![Пример использования свойства grid](grid.png)
