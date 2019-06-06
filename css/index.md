@@ -102,6 +102,8 @@ permalink: /css/
 
 ## Grid
 
+- [Руководство по Grid Layout](grid-guide/index.md)
+
 - [grid](grid.md)
 - [grid-area](grid-area.md)
 - [grid-auto-columns](grid-auto-columns.md)
