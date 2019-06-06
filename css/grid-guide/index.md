@@ -5,6 +5,7 @@ nav_order: 110
 has_children: true
 has_toc: true
 permalink: /css/grid-guide/
+parent: CSS
 ---
 
 # Руководство Grid
