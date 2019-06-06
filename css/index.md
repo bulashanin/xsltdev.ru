@@ -124,7 +124,6 @@ permalink: /css/
 - [grid-template-rows](grid-template-rows.md)
 {: .col-14 }
 
-<!--
 ## Flex
 
 - [flex](flex.md)
@@ -137,6 +136,7 @@ permalink: /css/
 - [order](order.md)
 {: .col-14 }
 
+<!--
 ## Выравнивание
 
 - [justify-content](justify-content.md)

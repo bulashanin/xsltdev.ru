@@ -3,12 +3,12 @@ layout: default
 title: Руководство Grid
 nav_order: 110
 has_children: true
-has_toc: true
+has_toc: false
 permalink: /css/grid-guide/
 parent: CSS
 ---
 
-# Руководство Grid
+# Руководство Grid Layout
 
 Руководство по Grid Layout.
 
