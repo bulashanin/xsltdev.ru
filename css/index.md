@@ -9,10 +9,11 @@ permalink: /css/
 
 <!-- prettier-ignore-start -->
 Справочник CSS
-<!--
+
 - [!important](important.md)
 {: .col-14 }
 
+<!--
 ## Псевдоклассы
 
 - [:active](pseudo-class-active.md)
@@ -94,9 +95,10 @@ permalink: /css/
 {: .col-14 }
 
 ---
+-->
 
 - [display](display.md)
-{: .col-14 }-->
+{: .col-14 }
 
 ## Grid
 
