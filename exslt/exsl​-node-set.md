@@ -31,6 +31,39 @@ exsl:node-set(object)
 
 Возвращает набор узлов, соответствующий указанному объекту.
 
+## Примеры
+
+```xml
+<doc>
+	<one />
+	<two />
+	<three />
+	<four />
+</doc>
+```
+
+```xml
+<!--  Test exslt:node-set applied to a result tree fragment  -->
+<xsl:variable name="tree">
+	<a>
+		<b>
+			<c>
+				<d />
+			</c>
+		</b>
+	</a>
+</xsl:variable>
+<xsl:template match="/">
+	<out>
+		<xsl:value-of select="count(exslt:node-set(//*))" />
+	</out>
+</xsl:template>
+```
+
+```xml
+<out xmlns:exslt="http://exslt.org/common">5</out>
+```
+
 ## Ссылки
 
 - [exsl​:node-set()](https://developer.mozilla.org/en-US/docs/Web/EXSLT/exsl/node-set) на MDN

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: function-available()
+title: function-available
 nav_order: 12
 parent: XPath
 ---
