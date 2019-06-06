@@ -9,7 +9,7 @@ parent: XPath
 1. TOC
 {:toc}
 
-# function-available
+# function-available()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
