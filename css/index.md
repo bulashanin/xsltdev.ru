@@ -7,6 +7,8 @@ has_toc: false
 permalink: /css/
 ---
 
+# CSS
+
 <!-- prettier-ignore-start -->
 Справочник CSS
 
