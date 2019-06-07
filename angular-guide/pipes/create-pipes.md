@@ -2,6 +2,7 @@
 layout: default
 title: Создание своих pipes
 nav_order: 2
+nav_exclude: true
 parent: Pipes
 grand_parent: Руководство Angular 7
 ---

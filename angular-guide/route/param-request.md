@@ -2,6 +2,7 @@
 layout: default
 title: Параметры строки запроса
 nav_order: 4
+nav_exclude: true
 parent: Маршрутизация
 grand_parent: Руководство Angular 7
 ---

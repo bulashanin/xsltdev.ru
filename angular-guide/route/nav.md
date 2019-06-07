@@ -2,6 +2,7 @@
 layout: default
 title: Программная навигация
 nav_order: 5
+nav_exclude: true
 parent: Маршрутизация
 grand_parent: Руководство Angular 7
 ---

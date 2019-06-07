@@ -2,6 +2,7 @@
 layout: default
 title: Что такое Angular. Начало работы с фреймворком
 nav_order: 1
+nav_exclude: true
 parent: Введение в Angular
 grand_parent: Руководство Angular 7
 ---

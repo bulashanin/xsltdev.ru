@@ -2,6 +2,7 @@
 layout: default
 title: Сервисы
 nav_order: 1
+nav_exclude: true
 parent: Сервисы
 grand_parent: Руководство Angular 7
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Определение маршрутов
 nav_order: 1
+nav_exclude: true
 parent: Маршрутизация
 grand_parent: Руководство Angular 7
 ---

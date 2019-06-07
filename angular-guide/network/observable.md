@@ -2,6 +2,7 @@
 layout: default
 title: Объект Observable и библиотека RxJS
 nav_order: 2
+nav_exclude: true
 parent: Взаимодействие с сервером
 grand_parent: Руководство Angular 7
 ---

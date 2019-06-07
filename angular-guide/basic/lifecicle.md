@@ -2,6 +2,7 @@
 layout: default
 title: Жизненный цикл компонента
 nav_order: 9
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

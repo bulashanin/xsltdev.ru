@@ -2,6 +2,7 @@
 layout: default
 title: Стили и шаблоны компонента
 nav_order: 4
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

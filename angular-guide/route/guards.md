@@ -2,6 +2,7 @@
 layout: default
 title: Guards
 nav_order: 7
+nav_exclude: true
 parent: Маршрутизация
 grand_parent: Руководство Angular 7
 ---

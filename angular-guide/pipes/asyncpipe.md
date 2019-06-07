@@ -2,6 +2,7 @@
 layout: default
 title: AsyncPipe
 nav_order: 4
+nav_exclude: true
 parent: Pipes
 grand_parent: Руководство Angular 7
 ---

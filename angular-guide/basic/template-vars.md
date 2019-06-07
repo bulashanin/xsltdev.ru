@@ -2,6 +2,7 @@
 layout: default
 title: Шаблонные переменные, ViewChild и ContentChild
 nav_order: 10
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

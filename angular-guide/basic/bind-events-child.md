@@ -2,6 +2,7 @@
 layout: default
 title: Привязка к событиям дочернего компонента
 nav_order: 8
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

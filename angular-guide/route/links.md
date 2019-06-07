@@ -2,6 +2,7 @@
 layout: default
 title: Создание ссылок
 nav_order: 2
+nav_exclude: true
 parent: Маршрутизация
 grand_parent: Руководство Angular 7
 ---

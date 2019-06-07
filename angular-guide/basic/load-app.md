@@ -2,6 +2,7 @@
 layout: default
 title: Загрузка приложения
 nav_order: 3
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

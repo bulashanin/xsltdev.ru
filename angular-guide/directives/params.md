@@ -2,6 +2,7 @@
 layout: default
 title: Получение параметров в директивах
 nav_order: 4
+nav_exclude: true
 parent: Директивы
 grand_parent: Руководство Angular 7
 ---

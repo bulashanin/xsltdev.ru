@@ -2,6 +2,7 @@
 layout: default
 title: Pure и Impure Pipes
 nav_order: 3
+nav_exclude: true
 parent: Pipes
 grand_parent: Руководство Angular 7
 ---

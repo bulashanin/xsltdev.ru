@@ -2,6 +2,7 @@
 layout: default
 title: Привязка данных
 nav_order: 5
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

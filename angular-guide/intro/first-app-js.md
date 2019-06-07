@@ -2,6 +2,7 @@
 layout: default
 title: Первое приложение на JavaScript
 nav_order: 3
+nav_exclude: true
 parent: Введение в Angular
 grand_parent: Руководство Angular 7
 ---

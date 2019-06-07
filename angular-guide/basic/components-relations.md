@@ -2,6 +2,7 @@
 layout: default
 title: Взаимодействие между компонентами
 nav_order: 7
+nav_exclude: true
 parent: Основы Angular
 grand_parent: Руководство Angular 7
 ---

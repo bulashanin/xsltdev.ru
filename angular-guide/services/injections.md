@@ -2,6 +2,7 @@
 layout: default
 title: Внедрение сервиса в другой сервис
 nav_order: 2
+nav_exclude: true
 parent: Сервисы
 grand_parent: Руководство Angular 7
 ---
