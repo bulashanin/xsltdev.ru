@@ -11,18 +11,12 @@ permalink: /html/
 
 Справочник по тегам HTML на русском языке. В справочнике приведены только актуальные для HTML теги и атрибуты, устаревшие и нерекомендуемые теги и атрибуты не описываются.
 
-<!-- prettier-ignore-start -->
-
-1. TOC
-{:toc}
-
-<!-- prettier-ignore-end -->
-
 ## Основные элементы
 
 - [`<html>`](html.md) &mdash; корневой элемент HTML-документа
 - [`<head>`](head.md) &mdash; общая информация о документе
 - [`<body>`](body.md) &mdash; контент документа
+{: .col-14 }
 
 ## Метаданные документа
 
@@ -31,6 +25,7 @@ permalink: /html/
 - [`<meta>`](meta.md) &mdash; метатеги
 - [`<style>`](style.md) &mdash; стили
 - [`<title>`](title.md) &mdash; заголовок документа
+{: .col-14 }
 
 ## Секционирование содержания
 
@@ -43,6 +38,7 @@ permalink: /html/
 - [`<main>`](main.md) &mdash; основной контент
 - [`<nav>`](nav.md) &mdash; навигация
 - [`<section>`](section.md) &mdash; автономная секция
+{: .col-14 }
 
 ## Текстовое содержание
 
@@ -59,6 +55,7 @@ permalink: /html/
 - [`<p>`](p.md) &mdash; абзац
 - [`<pre>`](pre.md) &mdash; форматированный текст
 - [`<ul>`](ul.md) &mdash; маркированный список
+{: .col-14 }
 
 ## Встроенные текстовые семантики
 
@@ -91,6 +88,7 @@ permalink: /html/
 - [`<u>`](u.md) &mdash; подчеркнутый текст
 - [`<var>`](var.md) &mdash; разметка переменной
 - [`<wbr>`](wbr.md) &mdash; возможный перенос строки
+{: .col-14 }
 
 ## Изображения и мультимедиа
 
@@ -101,21 +99,20 @@ permalink: /html/
 - [`<source>`](source.md) &mdash; медиа-ресурс
 - [`<track>`](track.md) &mdash; текстовые субтитры
 - [`<video>`](video.md) &mdash; видео
-
-## Встроенное содержание
-
 - [`<embed>`](embed.md) &mdash; встроенный контент
 - [`<iframe>`](iframe.md) &mdash; внешний документ
 - [`<object>`](object.md) &mdash; встроенный контент
 - [`<param>`](param.md) &mdash; передаваемый параметр в `<object>`
 - [`<picture>`](picture.md) &mdash; изображение
 - [`<source>`](source.md) &mdash; медиа-ресурс
+{: .col-14 }
 
 ## Скрипты
 
 - [`<canvas>`](canvas.md) &mdash; область для программного рисования
 - [`<noscript>`](noscript.md) &mdash; контент, выводимый при отключенных скриптах
 - [`<script>`](script.md) &mdash; скрипт
+{: .col-14 }
 
 ## Таблицы
 
@@ -129,6 +126,7 @@ permalink: /html/
 - [`<th>`](th.md) &mdash; заголовочная ячейка
 - [`<thead>`](thead.md) &mdash; шапка таблицы
 - [`<tr>`](tr.md) &mdash; строка таблицы
+{: .col-14 }
 
 ## Формы
 
@@ -146,14 +144,17 @@ permalink: /html/
 - [`<progress>`](progress.md) &mdash; прогресс-бар
 - [`<select>`](select.md) &mdash; выпадающий список
 - [`<textarea>`](textarea.md) &mdash; ввод многострочного текста
+{: .col-14 }
 
 ## Интерактивные элементы
 
 - [`<details>`](details.md) &mdash; разворачивающийся элемент
 - [`<dialog>`](dialog.md) &mdash; диалоговое окно
 - [`<summary>`](summary.md) &mdash; заголовок в разворачивающемся элементе
+{: .col-14 }
 
 ## Веб-компоненты
 
 - [`<slot>`](slot.md) &mdash; именованный слот
 - [`<template>`](template.md) &mdash; шаблон веб-компонента
+{: .col-14 }
