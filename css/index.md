@@ -128,6 +128,8 @@ permalink: /css/
 
 ## Flex
 
+- [Руководство по Flexbox](flex-guide/index.md)
+
 - [flex](flex.md)
 - [flex-basis](flex-basis.md)
 - [flex-direction](flex-direction.md)
