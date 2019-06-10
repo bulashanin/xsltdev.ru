@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # key()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`key(key-name, key-value)`** выбирает все узлы `x` такие, что значение их ключа с именем `key-name` (первым аргументом функции) равно `key-value` (второму аргументу функции).
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

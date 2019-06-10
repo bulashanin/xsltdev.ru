@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # starts-with()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`starts-with`** принимает на вход два строковых аргумента и возвращает `true`, если первая строка начинается второй и `false` в противном случае.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

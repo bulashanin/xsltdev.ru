@@ -6,9 +6,6 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # unparsed-entity-uri()
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: XPath
 Функция **`unparsed-entity-uri`** возвращает уникальный идентификатор ресурса, который соответствует неразбираемой внешней сущности, имя которой передано как аргумент.
 
 **Не поддерживается** браузером Mozilla Firefox.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # contains()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`contains`** принимает на вход два строковых аргумента и возвращает `true`, если первая строка содержит вторую и `false` в противном случае.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

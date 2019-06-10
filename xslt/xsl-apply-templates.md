@@ -112,19 +112,19 @@ parent: XSLT
 <?xml version="1.0" encoding="utf-8"?>
 <!-- apply-templates2.xsl -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
-	<xsl:output method="html"/>
-	<xsl:template match="/">
-		<html>
-			<head>
-				<title>Using the mode attribute</title>
-			</head>
-			<body style="font-family: sans-serif;">
-				<table style="text-align: center;" border="1">
-					<tr style="font-weight: bold; font-size: 150%;">
-						<td width="30%">Default mode</td>
-						<td width="30%">Blue mode</td>
-						<td width="30%">Red mode</td>
-					</tr>
+  <xsl:output method="html"/>
+  <xsl:template match="/">
+    <html>
+    <head>
+      <title>Using the mode attribute</title>
+    </head>
+    <body style="font-family: sans-serif;">
+      <table style="text-align: center;" border="1">
+        <tr style="font-weight: bold; font-size: 150%;">
+          <td width="30%">Default mode</td>
+          <td width="30%">Blue mode</td>
+          <td width="30%">Red mode</td>
+        </tr>
 					<tr>
 						<td>
 							<p>

@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # normalize-space()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`normalize-space`** производит со своим строковым аргументом так называемую нормализацию пробельного пространства.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

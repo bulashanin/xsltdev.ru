@@ -6,9 +6,6 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # id()
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: XPath
 Функция **`id`** позволяет обращаться к элементам по значениями их уникальных атрибутов.
 
 Частично поддерживается браузером Mozilla Firefox.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

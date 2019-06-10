@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # concat()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`concat`** принимает на вход две или более строки и возвращает конкатенацию (строковое сложение) своих аргументов.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

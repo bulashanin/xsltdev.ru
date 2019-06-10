@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # position()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`position`** возвращает позицию контекста — число, показывающее порядковый номер контекстного узла в обрабатываемом множестве.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

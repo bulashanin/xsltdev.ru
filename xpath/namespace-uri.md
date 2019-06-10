@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # namespace-uri()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`namespace-uri`** работает совершенно аналогично функции [`local-name`](/xpath/local-name/) за тем исключением, что возвращает не локальную часть расширенного имени, a URI пространства имен этого узла.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

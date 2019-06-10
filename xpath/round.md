@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # round()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`round`** округляет число до ближайшего целого значения.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

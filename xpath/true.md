@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # true()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`true`** возвращает тождественную "истину".
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

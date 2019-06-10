@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # current()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`current`** возвращает текущий узел преобразования.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

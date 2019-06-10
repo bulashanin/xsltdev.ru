@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # not()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`not`** выполняет логическое отрицание.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

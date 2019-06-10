@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # count()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`count`** возвращает число узлов в наборе узлов.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

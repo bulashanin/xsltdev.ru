@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # document()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`document`** позволяет обращаться к внешним документам по их URI.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

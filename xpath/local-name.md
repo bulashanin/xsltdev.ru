@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # local-name()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`local-name`** возвращает локальную часть имени первого в порядке просмотра документа узла множества, переданного ей в качестве аргумента.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

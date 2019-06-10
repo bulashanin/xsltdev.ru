@@ -6,14 +6,15 @@ parent: XPath
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # floor()
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Функция **`floor`** осуществляет округление численного аргумента до ближайшего не большего целого.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 
