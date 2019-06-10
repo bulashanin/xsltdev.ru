@@ -24,9 +24,9 @@ parent: XSLT
 
 ```xml
 <xsl:apply-templates
-	select = "выражение"
-	mode = "режим">
-	<!-- Content: (xsl:sort | xsl:with-param)* -->
+  select = "выражение"
+  mode = "режим">
+  <!-- Content: (xsl:sort | xsl:with-param)* -->
 </xsl:apply-templates>
 ```
 
@@ -43,9 +43,9 @@ parent: XSLT
 
 ```xml
 <xsl:template match="chapter">
-	<fo:block>
-		<xsl:apply-templates />
-	</fo:block>
+  <fo:block>
+    <xsl:apply-templates />
+  </fo:block>
 </xsl:template>
 ```
 
@@ -55,9 +55,9 @@ parent: XSLT
 
 ```xml
 <xsl:template match="author-group">
-	<fo:inline-sequence>
-		<xsl:apply-templates select="author/given-name" />
-	</fo:inline-sequence>
+  <fo:inline-sequence>
+    <xsl:apply-templates select="author/given-name" />
+  </fo:inline-sequence>
 </xsl:template>
 ```
 
@@ -67,9 +67,9 @@ parent: XSLT
 
 ```xml
 <xsl:template match="book">
-	<fo:block>
-		<xsl:apply-templates select=".//heading" />
-	</fo:block>
+  <fo:block>
+    <xsl:apply-templates select=".//heading" />
+  </fo:block>
 </xsl:template>
 ```
 
@@ -79,10 +79,10 @@ parent: XSLT
 
 ```xml
 <xsl:template match="employee">
-	<fo:block>
-		Employee <xsl:apply-templates select="name" /> belongs to group
-		<xsl:apply-templates select="ancestor::department/group" />
-	</fo:block>
+  <fo:block>
+    Employee <xsl:apply-templates select="name" /> belongs to group
+    <xsl:apply-templates select="ancestor::department/group" />
+  </fo:block>
 </xsl:template>
 ```
 
@@ -92,12 +92,12 @@ parent: XSLT
 
 ```xml
 <xsl:template match="product">
-	<table>
-		<xsl:apply-templates select="sales/domestic" />
-	</table>
-	<table>
-		<xsl:apply-templates select="sales/foreign" />
-	</table>
+  <table>
+    <xsl:apply-templates select="sales/domestic" />
+  </table>
+  <table>
+    <xsl:apply-templates select="sales/foreign" />
+  </table>
 </xsl:template>
 ```
 
@@ -125,47 +125,47 @@ parent: XSLT
           <td width="30%">Blue mode</td>
           <td width="30%">Red mode</td>
         </tr>
-					<tr>
-						<td>
-							<p>
-								<xsl:apply-templates mode="#default" select="/cars/manufacturer"/>
-							</p>
-						</td>
-						<td>
-							<p>
-								<xsl:apply-templates mode="blue" select="/cars/manufacturer"/>
-							</p>
-						</td>
-						<td>
-							<p>
-								<xsl:apply-templates mode="red" select="/cars/manufacturer"/>
-							</p>
-						</td>
-					</tr>
-				</table>
-			</body>
-		</html>
-	</xsl:template>
-	<xsl:template match="manufacturer">
-		<div style="color: green; font-style: italic; font-size: 125%">
-			<xsl:apply-templates select="car" mode="#current"/>
-		</div>
-	</xsl:template>
-	<xsl:template match="manufacturer" mode="blue red">
-		<div style="color: blue; font-weight: bold;">
-			<xsl:apply-templates select="car" mode="#current"/>
-		</div>
-	</xsl:template>
-	<xsl:template match="car" mode="#all">
-		<xsl:value-of select="."/>
-		<br/>
-	</xsl:template>
-	<xsl:template match="car" mode="red" priority="1">
-		<div style="color: red; font-size: 125%; font-family: serif;">
-			<xsl:value-of select="."/>
-			<br/>
-		</div>
-	</xsl:template>
+        <tr>
+          <td>
+            <p>
+              <xsl:apply-templates mode="#default" select="/cars/manufacturer"/>
+            </p>
+          </td>
+          <td>
+            <p>
+              <xsl:apply-templates mode="blue" select="/cars/manufacturer"/>
+            </p>
+          </td>
+          <td>
+            <p>
+              <xsl:apply-templates mode="red" select="/cars/manufacturer"/>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </body>
+    </html>
+  </xsl:template>
+  <xsl:template match="manufacturer">
+    <div style="color: green; font-style: italic; font-size: 125%">
+      <xsl:apply-templates select="car" mode="#current"/>
+    </div>
+  </xsl:template>
+  <xsl:template match="manufacturer" mode="blue red">
+    <div style="color: blue; font-weight: bold;">
+      <xsl:apply-templates select="car" mode="#current"/>
+    </div>
+  </xsl:template>
+  <xsl:template match="car" mode="#all">
+    <xsl:value-of select="."/>
+    <br/>
+  </xsl:template>
+  <xsl:template match="car" mode="red" priority="1">
+    <div style="color: red; font-size: 125%; font-family: serif;">
+      <xsl:value-of select="."/>
+      <br/>
+    </div>
+  </xsl:template>
 </xsl:stylesheet>
 ```
 
