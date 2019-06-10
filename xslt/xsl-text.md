@@ -6,14 +6,15 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:text
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Элемент **`xsl:text`** служит для того, чтобы создавать в выходящем документе текстовые узлы.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

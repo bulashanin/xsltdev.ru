@@ -6,14 +6,15 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:value-of
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Элемент **`xsl:value-of`** служит для вычисления значений выражений.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

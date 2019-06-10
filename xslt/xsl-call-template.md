@@ -6,9 +6,6 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:call-template
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -17,14 +14,20 @@ parent: XSLT
 
 В отличие от [`xsl:apply-templates`](/xslt/xsl-apply-templates/), `xsl:call-template` не меняет текущий узел и текущий набор узлов.
 
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
+
 ## Синтаксис
 
 ### XSLT 1.0, XSLT 2.0 и XSLT 3.0
 
-    <xsl:call-template
-        name = "имя">
-        <!-- Содержимое: xsl:with-param* -->
-    </xsl:call-template>
+```xml
+<xsl:call-template
+    name = "имя">
+    <!-- Содержимое: xsl:with-param* -->
+</xsl:call-template>
+```
 
 Атрибуты:
 

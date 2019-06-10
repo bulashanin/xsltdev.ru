@@ -6,14 +6,15 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:processing-instruction
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Элемент **`xsl:processing-instruction`** создает в результирующем дереве узел инструкции по обработке.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

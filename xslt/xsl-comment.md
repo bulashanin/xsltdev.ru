@@ -6,29 +6,34 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:comment
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Элемент **`xsl:comment`** используется для создания в конечном дереве узла комментариев. Содержимое элемента `xsl:comment` является шаблоном для строкового значения данного узла комментария.
 
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
+
 ## Синтаксис
 
 ### XSLT 1.0
 
-    <xsl:comment>
-        <!-- Содержимое: template -->
-    </xsl:comment>
+```xml
+<xsl:comment>
+    <!-- Содержимое: template -->
+</xsl:comment>
+```
 
 ### XSLT 2.0 и XSLT 3.0
 
-    <xsl:comment
-        select = "выражение">
-        <!-- Содержимое: sequence-constructor -->
-    </xsl:comment>
+```xml
+<xsl:comment
+    select = "выражение">
+    <!-- Содержимое: sequence-constructor -->
+</xsl:comment>
+```
 
 Атрибуты:
 

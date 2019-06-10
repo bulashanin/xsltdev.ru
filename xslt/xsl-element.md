@@ -6,14 +6,15 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:element
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 XSLT предоставляет возможность создавать узлы элементов при помощи элемента **`xsl:element`**.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

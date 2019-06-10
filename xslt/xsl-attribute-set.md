@@ -6,14 +6,15 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:attribute-set
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Элемент **`xsl:attribute-set`** определяет именованный набор атрибутов.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

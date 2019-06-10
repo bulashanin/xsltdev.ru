@@ -6,14 +6,15 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:if
 {: .no_toc }
 <!-- prettier-ignore-end -->
 
 Инструкция **`xsl:if`** позволяет создавать простые условия типа "если-то".
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

@@ -6,9 +6,6 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:apply-templates
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: XSLT
 Элемент **`xsl:apply-templates`** применяет шаблонные правила к узлам, которые возвращаются выражением, указанным в атрибуте `select`.
 
 Если атрибут `select` опущен, то `xsl:apply-templates` применяет шаблонные правила ко всем дочерним узлам текущего узла.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

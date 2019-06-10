@@ -6,9 +6,6 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:namespace-alias
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: XSLT
 Элемент **`xsl:namespace-alias`** назначает пространству имен выходящего документа пространство имен, которое будет подменять его в преобразовании, иначе говоря — псевдоним.
 
 Не поддерживается браузером Mozilla Firefox.
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 

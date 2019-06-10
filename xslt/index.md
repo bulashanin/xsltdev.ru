@@ -14,7 +14,7 @@ permalink: /xslt/
 
 [Язык преобразований XSL 1.0 (XSLT 1.0)](https://xsltdev.ru/tr/xslt10/) &mdash; Перевод рекомендации W3C на русский язык
 
-- [xsl:apply-imports](xslt-apply-imports.md)
+- [xsl:apply-imports](xsl-apply-imports.md)
 - [xsl:apply-templates](xsl-apply-templates.md)
 - [xsl:attribute](xsl-attribute.md)
 - [xsl:attribute-set](xsl-attribute-set.md)

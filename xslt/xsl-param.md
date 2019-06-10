@@ -6,9 +6,6 @@ parent: XSLT
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # xsl:param
 {: .no_toc }
 <!-- prettier-ignore-end -->
@@ -16,6 +13,10 @@ parent: XSLT
 Элемент [`xsl:template`](/xslt/xsl-template/), задающий в преобразовании шаблонное правило, может включать несколько элементов **`xsl:param`**, которые и будут определять параметры этого шаблона.
 
 Кроме этого, `xsl:param` может указываться в виде элемента верхнего уровня — в этом случае он будет определять глобальный параметр. В XSLT 2.0 элемент `<xsl:param>` также может находиться в новом элементе [`<xsl:function>`](/xslt/xsl-function/).
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Синтаксис
 
