@@ -7,12 +7,13 @@ grand_parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # Направление и порядок элементов
 {: .no_toc }
 <!-- prettier-ignore-end -->
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Свойство grid-auto-flow
 

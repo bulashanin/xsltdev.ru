@@ -2,7 +2,7 @@
 layout: default
 title: Управление элементами. flex-basis, flex-shrink и flex-grow
 nav_order:
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

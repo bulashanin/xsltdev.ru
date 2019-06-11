@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Руководство Grid
-nav_order: 110
+nav_order:
 has_children: true
 has_toc: false
 permalink: /css/grid-guide/

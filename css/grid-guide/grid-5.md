@@ -7,12 +7,13 @@ grand_parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # Отступы между столбцами и строками
 {: .no_toc }
 <!-- prettier-ignore-end -->
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 Для создания отступов между столбцами и строками применяются свойства `grid-column-gap` и `grid-row-gap` соответственно.
 

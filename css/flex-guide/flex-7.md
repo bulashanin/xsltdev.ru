@@ -2,7 +2,7 @@
 layout: default
 title: Выравнивание строк и столбцов. align-content
 nav_order: 7
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

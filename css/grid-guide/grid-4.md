@@ -7,12 +7,13 @@ grand_parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # Размеры строк и столбцов
 {: .no_toc }
 <!-- prettier-ignore-end -->
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 ## Фиксированные размеры
 

@@ -2,7 +2,7 @@
 layout: default
 title: flex-flow. Порядок элементов
 nav_order: 4
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

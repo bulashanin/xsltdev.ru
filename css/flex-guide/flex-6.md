@@ -2,7 +2,7 @@
 layout: default
 title: Выравнивание элементов. align-items и align-self
 nav_order: 6
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

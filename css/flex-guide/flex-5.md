@@ -2,7 +2,7 @@
 layout: default
 title: Выравнивание элементов. justify-content
 nav_order: 5
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

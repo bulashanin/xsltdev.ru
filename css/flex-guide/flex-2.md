@@ -2,7 +2,7 @@
 layout: default
 title: Направление flex-direction
 nav_order: 2
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

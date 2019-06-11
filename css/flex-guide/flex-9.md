@@ -2,7 +2,7 @@
 layout: default
 title: Многоколоночный дизайн на Flexbox
 nav_order: 9
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

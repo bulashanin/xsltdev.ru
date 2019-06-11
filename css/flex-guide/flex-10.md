@@ -2,7 +2,7 @@
 layout: default
 title: Макет страницы на Flexbox
 nav_order: 10
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

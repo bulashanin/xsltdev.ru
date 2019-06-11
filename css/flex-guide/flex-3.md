@@ -2,7 +2,7 @@
 layout: default
 title: flex-wrap
 nav_order: 3
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 

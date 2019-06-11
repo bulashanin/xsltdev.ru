@@ -105,21 +105,23 @@ Safari до версии 9 поддерживает свойство `-webkit-fl
 Результат:
 
 <style>
-form {
+.example form {
 width: 400px;
 margin: auto;
 }
-p {
+.example p {
 display: flex;
 }
-label {
+.example label {
 margin-right: 10px;
 }
-input, select {
+.example input,
+.example select {
 flex-grow: 1;
 }
 </style>
 
+<div class="example">
 <form action="handler.php">
 <p>
 <label>Имя:</label>
@@ -135,3 +137,4 @@ flex-grow: 1;
 </p>
 <p><button>Отправить</button></p>
 </form>
+</div>

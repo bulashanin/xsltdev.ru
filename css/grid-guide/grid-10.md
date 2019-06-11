@@ -7,12 +7,13 @@ grand_parent: CSS
 ---
 
 <!-- prettier-ignore-start -->
-1. TOC
-{:toc}
-
 # Именованные grid-линии и функция repeat
 {: .no_toc }
 <!-- prettier-ignore-end -->
+
+<!-- prettier-ignore -->
+1. TOC
+{:toc}
 
 С помощью ранее рассмотренной функции repeat мы можем растиражировать столбцы и строки, которые создаются между именованными grid-линиями:
 

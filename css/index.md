@@ -105,6 +105,7 @@ permalink: /css/
 ## Grid
 
 - [Руководство по Grid Layout](grid-guide/index.md)
+{: .col-14 }
 
 - [grid](grid.md)
 - [grid-area](grid-area.md)
@@ -129,6 +130,7 @@ permalink: /css/
 ## Flex
 
 - [Руководство по Flexbox](flex-guide/index.md)
+{: .col-14 }
 
 - [flex](flex.md)
 - [flex-basis](flex-basis.md)

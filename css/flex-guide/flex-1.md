@@ -2,7 +2,7 @@
 layout: default
 title: Что такое Flexbox. Flex Container
 nav_order: 1
-parent: Руководство Grid
+parent: Руководство Flex
 grand_parent: CSS
 ---
 
